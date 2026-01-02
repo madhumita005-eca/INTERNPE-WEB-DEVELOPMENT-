@@ -27,7 +27,7 @@
     height:65px;
     border-radius: 12px;
     box-shadow: -5px -5px 15px rgba(250, 250, 250, 0.2), 5px 5px 10px rgba(0, 0, 0, 0.429);
-    background-color: whitesmoke;
+    background-color: rgb(241, 240, 240);
     font-size: 25px;
     color:black;
     cursor:pointer;
